@@ -17,3 +17,7 @@ Our game is based on [this project](https://github.com/andyhd/asteroids). We pro
 ## 3. How to play?
 
 Clone this project and compile from asteroids_funny_ver.rkt.
+
+## 4. Members
+
+Kuntai Du, Xiaoyu Qian, Yuxi Liu.
