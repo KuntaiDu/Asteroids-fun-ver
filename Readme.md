@@ -1,4 +1,5 @@
 # Asteroid-fun-ver
+![image](https://github.com/thiswill/Asteroids-fun-ver/blob/master/images/screenshot.png)
 
 ## 1. Introduction
 
