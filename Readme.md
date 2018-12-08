@@ -1,8 +1,8 @@
-# Asteroid-funny-ver
+# Asteroid-fun-ver
 
 ## 1. Introduction
 
-Our game is based on [this project](https://github.com/andyhd/asteroids). We propose a lot of additional features to make this game funnier~
+Our game is based on [this project](https://github.com/andyhd/asteroids). We propose a lot of additional features.
 
 ## 2. New features
 
@@ -16,4 +16,4 @@ Our game is based on [this project](https://github.com/andyhd/asteroids). We pro
 
 ## 3. How to play?
 
-Clone this project and run asteroid-funny-ver.exe. Or you can directly compile from asteroids_funny_ver.rkt.
+Clone this project and compile from asteroids_funny_ver.rkt.
