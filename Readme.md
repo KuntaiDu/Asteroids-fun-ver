@@ -3,7 +3,7 @@
 
 ## 1. Introduction
 
-Our game is based on [this project](https://github.com/andyhd/asteroids). We propose a lot of additional features.
+Our game is based on [this project](https://github.com/andyhd/asteroids). We propose a lot of extra features.
 
 ## 2. New features
 
